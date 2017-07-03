@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/sasikumar/.android/build-cache/f08aa0976b0ff52c1e04be8fd6632bdd9f20d22a/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/sasikumar/.android/build-cache/f08aa0976b0ff52c1e04be8fd6632bdd9f20d22a/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/Users/sasikumar/.android/build-cache/f08aa0976b0ff52c1e04be8fd6632bdd9f20d22a/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/sasikumar/.android/build-cache/f08aa0976b0ff52c1e04be8fd6632bdd9f20d22a/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/sasikumar/.android/build-cache/f08aa0976b0ff52c1e04be8fd6632bdd9f20d22a/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/sasikumar/.android/build-cache/f08aa0976b0ff52c1e04be8fd6632bdd9f20d22a/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/sasikumar/.android/build-cache/f08aa0976b0ff52c1e04be8fd6632bdd9f20d22a/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/sasikumar/.android/build-cache/f08aa0976b0ff52c1e04be8fd6632bdd9f20d22a/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/sasikumar/.android/build-cache/f08aa0976b0ff52c1e04be8fd6632bdd9f20d22a/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/sasikumar/.android/build-cache/f08aa0976b0ff52c1e04be8fd6632bdd9f20d22a/output/res/color-v23/abc_btn_colored_text_material.xml"
+    }
+]

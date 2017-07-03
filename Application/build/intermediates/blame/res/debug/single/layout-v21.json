@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/sasikumar/.android/build-cache/f08aa0976b0ff52c1e04be8fd6632bdd9f20d22a/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/sasikumar/.android/build-cache/f08aa0976b0ff52c1e04be8fd6632bdd9f20d22a/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/sasikumar/.android/build-cache/f08aa0976b0ff52c1e04be8fd6632bdd9f20d22a/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/sasikumar/.android/build-cache/f08aa0976b0ff52c1e04be8fd6632bdd9f20d22a/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

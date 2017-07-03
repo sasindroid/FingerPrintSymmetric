@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/sasikumar/.android/build-cache/f08aa0976b0ff52c1e04be8fd6632bdd9f20d22a/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/sasikumar/.android/build-cache/f08aa0976b0ff52c1e04be8fd6632bdd9f20d22a/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/sasikumar/.android/build-cache/f08aa0976b0ff52c1e04be8fd6632bdd9f20d22a/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/sasikumar/.android/build-cache/f08aa0976b0ff52c1e04be8fd6632bdd9f20d22a/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/sasikumar/.android/build-cache/f08aa0976b0ff52c1e04be8fd6632bdd9f20d22a/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/sasikumar/.android/build-cache/f08aa0976b0ff52c1e04be8fd6632bdd9f20d22a/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/sasikumar/.android/build-cache/f08aa0976b0ff52c1e04be8fd6632bdd9f20d22a/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/sasikumar/.android/build-cache/f08aa0976b0ff52c1e04be8fd6632bdd9f20d22a/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/sasikumar/.android/build-cache/f08aa0976b0ff52c1e04be8fd6632bdd9f20d22a/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/sasikumar/.android/build-cache/f08aa0976b0ff52c1e04be8fd6632bdd9f20d22a/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/sasikumar/.android/build-cache/f08aa0976b0ff52c1e04be8fd6632bdd9f20d22a/output/res/color/switch_thumb_material_dark.xml"
+    }
+]

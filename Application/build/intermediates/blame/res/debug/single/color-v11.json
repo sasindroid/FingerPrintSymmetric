@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/sasikumar/.android/build-cache/f08aa0976b0ff52c1e04be8fd6632bdd9f20d22a/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/sasikumar/.android/build-cache/f08aa0976b0ff52c1e04be8fd6632bdd9f20d22a/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

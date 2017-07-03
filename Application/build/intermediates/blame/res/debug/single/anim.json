@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/sasikumar/.android/build-cache/f08aa0976b0ff52c1e04be8fd6632bdd9f20d22a/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/sasikumar/.android/build-cache/f08aa0976b0ff52c1e04be8fd6632bdd9f20d22a/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/sasikumar/.android/build-cache/f08aa0976b0ff52c1e04be8fd6632bdd9f20d22a/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/sasikumar/.android/build-cache/f08aa0976b0ff52c1e04be8fd6632bdd9f20d22a/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/sasikumar/.android/build-cache/f08aa0976b0ff52c1e04be8fd6632bdd9f20d22a/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/sasikumar/.android/build-cache/f08aa0976b0ff52c1e04be8fd6632bdd9f20d22a/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/sasikumar/.android/build-cache/f08aa0976b0ff52c1e04be8fd6632bdd9f20d22a/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/sasikumar/.android/build-cache/f08aa0976b0ff52c1e04be8fd6632bdd9f20d22a/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/sasikumar/.android/build-cache/f08aa0976b0ff52c1e04be8fd6632bdd9f20d22a/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/sasikumar/.android/build-cache/f08aa0976b0ff52c1e04be8fd6632bdd9f20d22a/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    }
+]

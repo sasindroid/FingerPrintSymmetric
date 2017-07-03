@@ -1,0 +1,105 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/src/main/AndroidManifest.xml:16:1-45:12
+	package
+		ADDED from /Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/src/main/AndroidManifest.xml:16:11-58
+	android:versionName
+		ADDED from /Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/src/main/AndroidManifest.xml:20:5-30
+		INJECTED from /Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/src/main/AndroidManifest.xml:18:5-51
+	android:versionCode
+		ADDED from /Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/src/main/AndroidManifest.xml:19:5-28
+		INJECTED from /Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/src/main/AndroidManifest.xml:17:5-63
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from /Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/src/main/AndroidManifest.xml:22:5-74
+	android:name
+		ADDED from /Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/src/main/AndroidManifest.xml:22:22-71
+application
+ADDED from /Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/src/main/AndroidManifest.xml:24:5-44:19
+MERGED from [com.android.support:support-v13:25.3.1] /Users/sasikumar/.android/build-cache/bfe8b82a4068020623880e9e01c3433f0dacfbf4/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/sasikumar/.android/build-cache/6b00822dbbeb950e50a525b031930683d3750ab5/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/sasikumar/.android/build-cache/f08aa0976b0ff52c1e04be8fd6632bdd9f20d22a/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/sasikumar/.android/build-cache/8656cf5979d9a67a4529513511054ff4e7ef8cd8/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/sasikumar/.android/build-cache/92697eb5e935a15944fa053c5aa03434fb18e142/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/sasikumar/.android/build-cache/a9d39313991b236bd963bd96326cb851e8111ae5/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/sasikumar/.android/build-cache/560b837e8058eb998330bf8a1badef8e7b09fb64/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/sasikumar/.android/build-cache/f41ac6b7e830073a2b7f80cefaa3f80f267f4c59/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/sasikumar/.android/build-cache/5fd3cc1a5337b11942c26b1c538b88aa2742bdce/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/sasikumar/.android/build-cache/7b7ed829cc6d5288297d1b445466401c397ed3a6/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/sasikumar/.android/build-cache/acbf31f33dd2d48d84b31eb72296170aeb0a7c2b/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/src/main/AndroidManifest.xml:27:9-49
+	android:supportsRtl
+		ADDED from /Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/src/main/AndroidManifest.xml:28:9-35
+	tools:ignore
+		ADDED from /Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/src/main/AndroidManifest.xml:30:9-48
+	android:allowBackup
+		ADDED from /Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/src/main/AndroidManifest.xml:25:9-35
+	android:icon
+		ADDED from /Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/src/main/AndroidManifest.xml:26:9-43
+	android:theme
+		ADDED from /Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/src/main/AndroidManifest.xml:29:9-53
+activity#com.example.android.fingerprintdialog.MainActivity
+ADDED from /Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/src/main/AndroidManifest.xml:32:9-39:20
+	android:label
+		ADDED from /Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/src/main/AndroidManifest.xml:34:13-53
+	android:name
+		ADDED from /Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/src/main/AndroidManifest.xml:33:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/src/main/AndroidManifest.xml:35:13-38:29
+action#android.intent.action.MAIN
+ADDED from /Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/src/main/AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from /Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/src/main/AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/src/main/AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from /Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/src/main/AndroidManifest.xml:37:27-74
+activity#com.example.android.fingerprintdialog.SettingsActivity
+ADDED from /Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/src/main/AndroidManifest.xml:41:9-43:55
+	android:label
+		ADDED from /Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/src/main/AndroidManifest.xml:43:13-52
+	android:name
+		ADDED from /Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/src/main/AndroidManifest.xml:42:13-45
+uses-sdk
+INJECTED from /Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:support-v13:25.3.1] /Users/sasikumar/.android/build-cache/bfe8b82a4068020623880e9e01c3433f0dacfbf4/output/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/sasikumar/.android/build-cache/6b00822dbbeb950e50a525b031930683d3750ab5/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/sasikumar/.android/build-cache/f08aa0976b0ff52c1e04be8fd6632bdd9f20d22a/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /Users/sasikumar/.android/build-cache/8656cf5979d9a67a4529513511054ff4e7ef8cd8/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/sasikumar/.android/build-cache/92697eb5e935a15944fa053c5aa03434fb18e142/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/sasikumar/.android/build-cache/a9d39313991b236bd963bd96326cb851e8111ae5/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/sasikumar/.android/build-cache/560b837e8058eb998330bf8a1badef8e7b09fb64/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/sasikumar/.android/build-cache/f41ac6b7e830073a2b7f80cefaa3f80f267f4c59/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/sasikumar/.android/build-cache/5fd3cc1a5337b11942c26b1c538b88aa2742bdce/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/sasikumar/.android/build-cache/7b7ed829cc6d5288297d1b445466401c397ed3a6/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] /Users/sasikumar/.android/build-cache/acbf31f33dd2d48d84b31eb72296170aeb0a7c2b/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v13:25.3.1] /Users/sasikumar/.android/build-cache/bfe8b82a4068020623880e9e01c3433f0dacfbf4/output/AndroidManifest.xml:23:9-52
+	android:targetSdkVersion
+		INJECTED from /Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/sasikumar/AndroidStudio/DemoApps/FingerPrintSymmetric/Application/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v13:25.3.1] /Users/sasikumar/.android/build-cache/bfe8b82a4068020623880e9e01c3433f0dacfbf4/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/sasikumar/.android/build-cache/6b00822dbbeb950e50a525b031930683d3750ab5/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/sasikumar/.android/build-cache/f08aa0976b0ff52c1e04be8fd6632bdd9f20d22a/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/sasikumar/.android/build-cache/8656cf5979d9a67a4529513511054ff4e7ef8cd8/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/sasikumar/.android/build-cache/92697eb5e935a15944fa053c5aa03434fb18e142/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/sasikumar/.android/build-cache/a9d39313991b236bd963bd96326cb851e8111ae5/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/sasikumar/.android/build-cache/560b837e8058eb998330bf8a1badef8e7b09fb64/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/sasikumar/.android/build-cache/f41ac6b7e830073a2b7f80cefaa3f80f267f4c59/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/sasikumar/.android/build-cache/5fd3cc1a5337b11942c26b1c538b88aa2742bdce/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/sasikumar/.android/build-cache/7b7ed829cc6d5288297d1b445466401c397ed3a6/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/sasikumar/.android/build-cache/acbf31f33dd2d48d84b31eb72296170aeb0a7c2b/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v13:25.3.1] /Users/sasikumar/.android/build-cache/bfe8b82a4068020623880e9e01c3433f0dacfbf4/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v13:25.3.1] /Users/sasikumar/.android/build-cache/bfe8b82a4068020623880e9e01c3433f0dacfbf4/output/AndroidManifest.xml:26:9-47
